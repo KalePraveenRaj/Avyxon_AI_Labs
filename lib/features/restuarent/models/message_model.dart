@@ -1,4 +1,4 @@
-enum MessageType { user, ai }
+enum MessageType { user, bot }
 
 class Message {
   final String text;
